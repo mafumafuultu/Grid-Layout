@@ -3,7 +3,7 @@
 ![licence](https://img.shields.io/badge/license-MIT-blue.svg)
 
 シンプルなGridの実装。
-
+[サンプル](https://mafumafuultu.github.io/gridlayout/docs/)
 
 ## Use
 ```html
@@ -27,8 +27,11 @@
 ## Customize
 
 ```less
+// カラム分割数の指定、複数可
 @gridColumnSplit : 2, 4, 5, 7, 9, 12, 16, 24;
+// Grid同士の感覚
 @gridGap : 8px;
+// Gridで最低限確保する高さ
 @gridRowBaseSize : 24px;
 ```
 

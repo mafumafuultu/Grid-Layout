@@ -1,4 +1,4 @@
-# GridLayout
+# Grid-Layout
 
 ![licence](https://img.shields.io/badge/license-MIT-blue.svg)
 

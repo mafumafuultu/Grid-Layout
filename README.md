@@ -3,7 +3,7 @@
 ![licence](https://img.shields.io/badge/license-MIT-blue.svg)
 
 シンプルなGridの実装。
-[サンプル](https://mafumafuultu.github.io/gridlayout/docs/)
+[サンプル](https://mafumafuultu.github.io/Grid-Layout/)
 
 ## Use
 ```html
